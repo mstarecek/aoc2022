@@ -1,0 +1,6 @@
+# for testing circle generation
+# Sensor at x=8, y=7: closest beacon is at x=2, y=10
+
+# testing touch
+Sensor at x=16, y=7: closest beacon is at x=15, y=3
+Sensor at x=14, y=3: closest beacon is at x=15, y=3

@@ -1,0 +1,16 @@
+obsidian = 3 ore + 14 clay (4.6)
+
+
+geode = 2 ore + 7 obsidian
+geode = 2 ore + 7*(3 ore + 14 clay)
+geode = 2 ore + 21 ore + 91 clay
+geode = 23 ore + 91 clay (4.26)
+
+
+bp2:
+obsidian = 3 ore + 8 clay (2.6)
+
+geode = 3 ore + 12 obsidian
+geode = 3 ore + 12*(3 ore + 8 clay)
+geode = 3 ore + 36 ore + 96 clay
+geode = 39 ore + 96 clay (2.46)
